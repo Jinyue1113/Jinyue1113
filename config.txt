@@ -12,18 +12,18 @@
 # 信息配置
 #接收公众号消息的微信号，我想通过你的网站，[wx1]，[wx2]]
 "weather_key": "3d31f666691f4d49a2dc915a135309a8",
-[用户]：["O69I16ahIJc 1DuLan 99 B5 UXGA-eU"，"O69I16 TJ3 vAYH0mw0 ODP6 DGnNTRc"]
+[用户]：["O 69I16ahIJc 1DuLan 99 B5 UXGA-eU"，"O 69I16 TJ3 vAYH0mw 0 Odpp 6 DGnNTRc"]
 "tian_api": "366725a46f456ad3e46800994c10675d",
 #和风天气 apikey
 #天行数据 apikey
 # 生日1
 #所在地区，你是你的，你是你的，你是你的，你是你的（）
 # 生日2
-“地区”：“龙华区”，
+“地区”：“深圳市”，
 # 在一起的日子，格式同上
 "love_date": "2023-11-13",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
-[birthday1]：{[姓名]：[com]，[com]：[2000-12-05]}
+[生日1]：{[姓名]：[com]，[com]：[2000-12-05]}
 }
